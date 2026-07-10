@@ -49,8 +49,7 @@ const footerTemplate = `
     <div class="footer-col">
       <h4>Contact Info</h4>
       <ul class="footer-links">
-        <li><i class="fas fa-map-marker-alt" style="color: var(--accent); width: 20px;"></i> 123 Eagle Way, Business Dist.</li>
-        <li><i class="fas fa-phone" style="color: var(--accent); width: 20px;"></i> +1 (555) 123-4567</li>
+        <li><i class="fas fa-phone" style="color: var(--accent); width: 20px;"></i> 626-749-3499</li>
         <li><i class="fas fa-envelope" style="color: var(--accent); width: 20px;"></i> info@globaleagleconsulting.com</li>
       </ul>
     </div>
