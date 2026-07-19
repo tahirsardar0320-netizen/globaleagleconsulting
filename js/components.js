@@ -3,7 +3,7 @@
 const headerTemplate = `
 <header id="main-header">
   <a href="index.html" class="logo">
-    <img src="images/global_eagle_logo_cropped.jpg" alt="Global Eagle Consulting Logo" style="height: 55px; border-radius: 4px;"> 
+    <img src="images/logo.png" alt="Global Eagle Consulting Logo" style="height: 180px; width: auto; display: block; margin: -62px 0;">
   </a>
   <div class="mobile-menu-btn" id="mobile-menu-btn">
     <i class="fas fa-bars"></i>
@@ -26,7 +26,7 @@ const footerTemplate = `
   <div class="footer-content">
     <div class="footer-col">
       <a href="index.html" class="logo" style="margin-bottom: 20px; display: inline-block;">
-        <img src="images/global_eagle_logo_cropped.jpg" alt="Global Eagle Consulting Logo" style="height: 70px; border-radius: 4px;">
+        <img src="images/logo.png" alt="Global Eagle Consulting Logo" style="height: 70px; width: auto; display: block;">
       </a>
       <p style="color: var(--text-muted);">Transforming your business with modern, professional, and reliable services. Your success is our mission.</p>
     </div>
