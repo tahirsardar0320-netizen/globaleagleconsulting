@@ -12,7 +12,7 @@ const headerTemplate = `
     <ul class="nav-links" id="nav-links">
       <li><a href="index.html" class="nav-item" data-page="index.html">Home</a></li>
       <li><a href="services.html" class="nav-item" data-page="services.html">Our Services</a></li>
-
+      <li><a href="eagle-apparel.html" class="nav-item" data-page="eagle-apparel.html">Products</a></li>
       <li><a href="about.html" class="nav-item" data-page="about.html">About Us</a></li>
       <li><a href="contact.html" class="nav-item" data-page="contact.html">Contact Us</a></li>
       <li><a href="review.html" class="nav-item" data-page="review.html">Review</a></li>
@@ -35,7 +35,7 @@ const footerTemplate = `
       <ul class="footer-links">
         <li><a href="index.html">Home</a></li>
         <li><a href="services.html">Our Services</a></li>
-
+        <li><a href="eagle-apparel.html">Products</a></li>
       </ul>
     </div>
     <div class="footer-col">
